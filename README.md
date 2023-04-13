@@ -45,7 +45,11 @@
 
 #### Machine Learning
 1. [End to End Movie Recommender System (Docker+AWS Lambda)](https://github.com/arjiomega/movie_recommender_system)
-2. [Semantic Segmentation (Ongoing)](https://github.com/arjiomega/Semantic_Segmentation_Project)
+2. [Parking Lot Availability (Binary Image Classification MobileNetv2 TransferLearning)](https://github.com/arjiomega/Parking-Lot-Availability-CNN-Classification)
+
+<img src="https://camo.githubusercontent.com/f20c5c8b9244a7431e32807586655b3488a19b64084f4e2b8d35bfd3e13e87ba/68747470733a2f2f692e696d6775722e636f6d2f614f776257524b2e706e67" alt="ml2" width="800" height="400" />
+
+3. [Semantic Segmentation (Ongoing)](https://github.com/arjiomega/Semantic_Segmentation_Project)
 
 <!--
 **arjiomega/arjiomega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
