@@ -31,7 +31,7 @@
 #### Computer Vision
 1. [Computer Vision Puzzle](https://github.com/arjiomega/ComputerVision_Puzzle)
 
-![output](https://github.com/arjiomega/ComputerVision_Puzzle/blob/main/results/output%20(1).gif)
+![output](https://github.com/arjiomega/ComputerVision_Puzzle/blob/main/results/output.gif)
 
 2. [Parking Lot Availability Counter](https://github.com/arjiomega/CarPark_ComputerVision)
 
